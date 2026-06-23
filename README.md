@@ -154,7 +154,7 @@ Early YouTube comparisons (June 2026) highlight progress in walk-and-talk shots,
 
 ## Access Methods and Integration Options
 
-1. **Official Web Platform**: [happyhorse.com](https://www.happyhorse.com/) – User-friendly interface with launch promotions (limited $1 offers and 40% off reported in early coverage).
+1. **Official Web Platform**: User-friendly interface with launch promotions (limited $1 offers and 40% off reported in early coverage).
 2. **Alibaba Cloud Model Studio API**: Enterprise-grade access with full Happy Horse 1.1 capabilities. Recommended for production integration. Launch promotion: 40% off for first two weeks.
 3. **Partner Platforms**:
    - Creative Fabrica (early access + Director Mode for advanced camera control)
@@ -200,7 +200,7 @@ Happy Horse 1.1 is not merely an incremental update—it is a **production-focus
 Whether you are a solo creator producing social content, a studio iterating on short dramas, or an enterprise building automated video pipelines, Happy Horse 1.1 delivers meaningful advances in quality, controllability, and efficiency.
 
 For the latest demos, generation interface, and updates, visit the official resource:  
-**[Happy Horse 1.1 AI Video Generator](https://happy-horse.art/happy-horse-1-1-ai)**
+**[Happy Horse 1.0 AI Video Generator](https://happy-horse.art/)**
 
 ---
 
